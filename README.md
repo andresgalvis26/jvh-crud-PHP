@@ -20,7 +20,13 @@ To deploy this project was used: InfinityFree
 
 ### Remember: 
 - It was necessary modify config.php file with the new data about DB name, User name and Password or Table Name.
-## Authors
+
+## Link to Video Tutorial
+```bash
+  https://youtu.be/MaJJ_n1E1yo
+```
+
+### Authors
 
 - [@andresgalvis26](https://www.github.com/andresgalvis26)
 
